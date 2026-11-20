@@ -1,4 +1,4 @@
-# SoundPill (by TundraLab)
+# SoundPill
 
 [![GitHub](https://img.shields.io/badge/GitHub-TundraLab%2FSoundPill-181717?logo=github)](https://github.com/TundraLab/SoundPill)
 [![Autor Único](https://img.shields.io/badge/Autor%20e%20Dev%20Único-%40GustaHerin-181717?logo=github)](https://github.com/GustaHerin)
