@@ -6,7 +6,7 @@
 
 Este repositório é apenas um redirecionamento.
 
-O **SoundPill é um produto oficial da **TundraLab**, criado e desenvolvido de forma independente por seu autor e desenvolvedor único **Gustavo Henrique Novaes Gomes ([@GustaHerin](https://github.com/GustaHerin))**.
+O **SoundPill** é um produto oficial da **TundraLab**, criado e desenvolvido de forma independente por seu autor e desenvolvedor único **Gustavo Henrique Novaes Gomes ([@GustaHerin](https://github.com/GustaHerin))**.
 
 O código-fonte oficial, atualizações e instruções de instalação estão em:
 
